@@ -64,3 +64,8 @@ These came up during the original analysis and are worth checking on any new dat
 ## Data
 
 No sequencing data or results are included in this repository. The scripts expect data in the directory set by `PROJECT_DIR`.
+
+## Author
+
+Santiago Fuenmayor, Utah Valley University
+[LinkedIn](https://www.linkedin.com/in/santiago-fuenmayor-720662203/)
