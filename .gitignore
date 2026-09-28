@@ -1,12 +1,23 @@
+# Sequencing data and large intermediate files
 *.fastq.gz
 *.fq.gz
+*.fastq
 *.bam
 *.bai
+*.sam
 *.ht2
+*.fa
+*.gtf
+
+# R session files
 *.RData
+.Rhistory
+
+# Output folders (data and results stay off GitHub)
 raw_data/
 trimmed/
 aligned/
 reference/
 counts/
+results/
 fastqc_*/
