@@ -1,0 +1,12 @@
+*.fastq.gz
+*.fq.gz
+*.bam
+*.bai
+*.ht2
+*.RData
+raw_data/
+trimmed/
+aligned/
+reference/
+counts/
+fastqc_*/
